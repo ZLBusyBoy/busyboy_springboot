@@ -9,10 +9,11 @@
  * it only in accordance with the terms of the license agreement you
  * entered into with YueTu Ltd.
  */
-package cn.busyboy.busyboy_springboot.string_builder;
+package cn.busyboy.spingboot_demo.string_builder;
 
 /**
  * @author ling.zhang
+ * high performance StringBuilder combine with ThreadLocal
  */
 public class StringBuilderHolder {
     private final StringBuilder sb;

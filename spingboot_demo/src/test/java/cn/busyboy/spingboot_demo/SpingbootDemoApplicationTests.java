@@ -1,4 +1,4 @@
-package cn.busyboy.busyboy_springboot;
+package cn.busyboy.spingboot_demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class BusyboySpringbootApplicationTests {
+public class SpingbootDemoApplicationTests {
 
     @Test
     public void contextLoads() {
