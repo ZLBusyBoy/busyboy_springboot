@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: prodc
+
+---
+server:
+  port: 8081
+spring:
+  profiles: proda
+
+---
+server:
+  port: 8082
+spring:
+  profiles: prodb
+
+---
+server:
+  port: 8083
+spring:
+  profiles: prodc
